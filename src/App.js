@@ -11,7 +11,7 @@ export default class App extends Component {
        <NavBar />
        <NewsCompnent />
       </div>
-      // this is test comment new
+      // this is test comment new..
     )
   }
 }
