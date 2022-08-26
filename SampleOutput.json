@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "‘Bringing Dhoni as mentor is Virat’s decision. He wants to finish on a high by winning T20 World Cup': Monty Panesar - Hindustan Times",
+            "description": "T20 World Cup 2021: Panesar believes, Dhoni's presence will give Kohli confidence and help him live his dream of winning an ICC trophy as a captain. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/bringing-dhoni-as-mentor-is-virat-s-decision-he-wants-to-finish-on-a-high-by-winning-t20-world-cup-monty-panesar-101634823619046.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/10/21/1600x900/dhoni_kohli1_1634824865664_1634824872740.jpg",
+            "publishedAt": "2021-10-21T14:03:55Z",
+            "content": "Former England cricketer Monty Panesar feels India captain Virat Kohli must have had a big role to play in roping in the legendary MS Dhoni as mentor of the Indian side for the T20 World Cup 2021. Pa… [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AFP",
+            "title": "All-round Shakib Al Hasan powers Bangladesh into Super 12s of T20 World Cup - Times of India",
+            "description": "Cricket News: Shakib Al Hasan smashed 46 and had bowling figures of 4-9 as Bangladesh crushed Papua New Guinea (PNG) by 84 runs to qualify for the Super 12 stage of",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/all-round-shakib-al-hasan-powers-bangladesh-into-super-12s-of-t20-world-cup/articleshow/87188610.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-87188579,width-1070,height-580,imgsize-55222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-10-21T13:57:00Z",
+            "content": "A stellar showing from Bangladesh #T20WorldCup | #BANvPNG | https://t.co/fzlukm5taW https://t.co/ANzCpBWxtF\r\n— ICC (@ICC) 1634823270000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "'It is far from sorted for India, will take time' - Aakash Chopra lists three major takeaways from IND vs NZ T20I series - Hindustan Times",
+            "description": "IND vs NZ: Rohit Sharma and his Team India side may have thumped New Zealand 3-0 to register yet another T20I series whitewash but they still have a couple of areas to sort, according to former cricketer Aakash Chopra. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/it-is-far-from-sorted-for-india-will-take-time-aakash-chopra-lists-three-major-takeaways-from-ind-vs-nz-t20i-series-101637544504363.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/11/22/1600x900/vvz_1637544647452_1637544679029.jfif",
+            "publishedAt": "2021-11-22T01:35:48Z",
+            "content": "Former Indian cricketer Aakash Chopra picked three major takeaways from the recently-concluded three-match T20I series between India and New Zealand where the Rohit Sharma-led home side registered a … [+1888 chars]"
+        }
+    ]
+}
